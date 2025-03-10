@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": "2",
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": "3",
+      "name": "Sansung S20+ ",
+      "price": "7520.89"
+    },
+    {
+      "id": "f778",
+      "name": "Moto",
+      "price": 598.9
+    },
+    {
+      "id": "5247",
+      "name": "Carro HB20",
+      "price": 5456.7
+    },
+    {
+      "id": "5f51",
+      "name": "Planta",
+      "price": 10
+    },
+    {
+      "id": "73f9",
+      "name": "para excuir",
+      "price": 999
+    },
+    {
+      "id": "215c",
+      "name": "teste",
+      "price": 999
+    },
+    {
+      "id": "5aaf",
+      "name": "dasdas",
+      "price": 122.7867
+    },
+    {
+      "id": "20b9",
+      "name": "casta",
+      "price": 122
+    }
+  ]
+}

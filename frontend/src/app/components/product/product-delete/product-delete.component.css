@@ -1,0 +1,25 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px;
+    margin: 20px 15px 0px 0px;
+    border-radius: 10px;
+    border-color: azure;
+}
+
+.direction {    
+margin: 16px;
+}
+
+.save {
+    color: aliceblue;
+    background-color: blue;
+}
+
+.card {
+    padding: 10px;
+}
